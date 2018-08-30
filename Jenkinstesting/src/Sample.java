@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("First jenkins job");
 		System.out.println("First jenkins job");
 		System.out.println("First jenkins job");
+		System.out.println("First jenkins job");
 	}
 
 }
